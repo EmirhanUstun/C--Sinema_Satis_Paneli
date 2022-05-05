@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\bin\Debug\Udemy_Değişkenler_Örnek.exe.config
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\bin\Debug\Udemy_Değişkenler_Örnek.exe
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\bin\Debug\Udemy_Değişkenler_Örnek.pdb
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.Form1.resources
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.Properties.Resources.resources
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.exe
+D:\C# N.Y\Udemy_Değişkenler_Örnek\Udemy_Değişkenler_Örnek\obj\Debug\Udemy_Değişkenler_Örnek.pdb
